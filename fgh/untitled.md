@@ -1,8 +1,8 @@
-# Initial page
+# Untitled
 
 ## Getting Super Powers
 
-Becoming a super hero is a fairly straight forward process:
+Becoming a superhero is a fairly straightforward process:
 
 ```
 $ give me super-powers
