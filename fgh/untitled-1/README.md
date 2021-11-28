@@ -1,4 +1,8 @@
-# Untitled
+---
+coverY: 0
+---
+
+# 🥰 Untitled
 
 {% swagger baseUrl="https://api.cakes.com" path="/v1/cakes/:id" method="get" summary="Get Cakes" %}
 {% swagger-description %}
